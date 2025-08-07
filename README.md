@@ -8,7 +8,7 @@
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0liv&layout=compact&theme=radical&card_width=350&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0liv&layout=compact&theme=radical&card_width=350&hide_border=true&&hide=ASP.NET,SCSS"
     height="180em"
     alt="Top Languages"
   />
